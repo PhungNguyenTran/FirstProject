@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zr5dGri4kCiGXKlwrmOqNNWiKF2zLtAMzCZc6Xmj/61Ki6XfpEn3Qy4uh54osOk0m47UMP8snyaHl5nHd992Hg==",
+  "success": true,
+  "projectFilePath": "/Users/phungnguyen/Documents/Unknown/FirstProject/FirstProject/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/phungnguyen/.nuget/packages/netstandard.library.ref/2.1.0/netstandard.library.ref.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
